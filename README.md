@@ -59,8 +59,4 @@ Når applikationen kører, kan du få adgang til følgende endpoints for at inte
 
 ## Licens
 
-Dette projekt er licenseret under MIT-licensen - se [LICENSE.md](LICENSE.md) for detaljer.
-
-## Forfatter
-
-- **Claus Bové** - [Din GitHub-profil](https://github.com/din-bruger)
+MIT-licensen - se [LICENSE.md](LICENSE.md) for detaljer.
